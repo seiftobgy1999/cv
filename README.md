@@ -1,2 +1,2 @@
 # cv
-purely HTML cv website 
+Purely HTML cv website I built just to practice basics of HTML
